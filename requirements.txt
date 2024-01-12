@@ -1,0 +1,11 @@
+dill
+ipykernel
+requests
+bs4
+numpy
+gensim
+nltk
+scikit-learn
+'transformers[torch]'
+scipy
+pandas
